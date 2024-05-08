@@ -1,4 +1,4 @@
-			Copyright 2016 Cecilia Wiren                                 
+			Copyright 2024 Nick Kelly
 				Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
